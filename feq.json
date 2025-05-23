@@ -1,0 +1,14 @@
+[
+    {
+        "question": "hi",
+        "answer": "Hello! How can I help you?"
+    },
+    {
+        "question": "how are you?",
+        "answer": "I'm a bot, always running at 100%!"
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye and have a great day!"
+    }
+]
